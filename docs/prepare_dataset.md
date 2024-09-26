@@ -2,7 +2,7 @@
 
 ## PianoMotion10M
 
-Download PianoMotion10M V1.0 full dataset data [HERE](https://drive.google.com/drive/folders/1JY0zOE0s7v9ZYLlIP1kCZUdNrih5nYEt?usp=sharing).
+Download PianoMotion10M V1.0 full dataset data HERE.
 
 ```
 cd /path/to/PianoMotion10M_Dataset
