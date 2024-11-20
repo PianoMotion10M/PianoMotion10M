@@ -21,7 +21,7 @@ Overview of our framework. We collect videos of expert piano performances from t
 
 ## Models
 
-Sample results of our generation model.
+> Sample results of our generation model.
 
 https://github.com/user-attachments/assets/f346608b-cfe3-4984-a39a-c8ae5794f7bf
 
@@ -47,6 +47,17 @@ https://github.com/user-attachments/assets/8860cf2e-1146-45ca-8d96-59ac161fdc03
 |   Our-Large   |   Wav2Vec2.0   | Transformer | 3.376 |  557   |
 |   Our-Large   |   HuBert   |     SSM     | 3.395  |  539   |
 |   Our-Large   |  HuBert   | Transformer | **3.281** |  557   |
+
+> Sample results generated with MIDI guidance.
+
+
+https://github.com/user-attachments/assets/2f43d7a0-e220-45e1-aa99-80c31d7e1dde
+
+
+https://github.com/user-attachments/assets/fc45a2f5-2119-4364-9707-35c1a23cbddd
+
+
+
 
 **Notes**: 
 
